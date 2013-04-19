@@ -1,0 +1,972 @@
+2012-11-11 02:38:44> ADD ASDF; 2
+2012-11-11 02:38:44> ASDF successfully added.
+2012-11-11 02:38:51> COMP P 1
+2012-11-11 02:38:51> Task completed.
+2012-11-11 02:38:54> COMP P 1
+2012-11-11 02:38:54> Task completed.
+2012-11-11 02:39:04> INCOMP C 1
+2012-11-11 02:39:04> Id must be in range
+2012-11-11 02:39:16> UNDO
+2012-11-11 02:41:33> ADD ASDF; 2
+2012-11-11 02:41:33> ASDF successfully added.
+2012-11-11 02:42:01> AD HI; NOW; NOW
+2012-11-11 02:42:01> HI successfully added.
+2012-11-11 02:42:09> GOTO C TODAY
+2012-11-11 02:43:20> QUIT
+2012-11-11 02:43:20> Invalid command
+2012-11-11 02:45:57> ADD HI; 3
+2012-11-11 02:45:57> HI successfully added.
+2012-11-11 02:46:05> ADD HI; 3
+2012-11-11 02:46:05> HI successfully added.
+2012-11-11 02:46:06> ADD HI; 3
+2012-11-11 02:46:06> HI successfully added.
+2012-11-11 02:46:06> ADD HI; 3
+2012-11-11 02:46:06> HI successfully added.
+2012-11-11 02:46:06> ADD HI; 3
+2012-11-11 02:46:06> HI successfully added.
+2012-11-11 02:46:07> ADD HI; 3
+2012-11-11 02:46:07> HI successfully added.
+2012-11-11 02:46:07> ADD HI; 3ADD HI; 3
+2012-11-11 02:46:07> Date must be a integer
+2012-11-11 02:46:08> ADD HI; 3
+2012-11-11 02:46:09> HI successfully added.
+2012-11-11 02:46:09> ADD HI; 3
+2012-11-11 02:46:09> HI successfully added.
+2012-11-11 02:46:09> ADD HI; 3
+2012-11-11 02:46:09> HI successfully added.
+2012-11-11 02:46:10> ADD HI; 3
+2012-11-11 02:46:10> HI successfully added.
+2012-11-11 02:46:10> ADD HI; 3
+2012-11-11 02:46:10> HI successfully added.
+2012-11-11 02:46:11> ADD HI; 3
+2012-11-11 02:46:11> HI successfully added.
+2012-11-11 02:46:11> ADD HI; 3
+2012-11-11 02:46:11> HI successfully added.
+2012-11-11 02:46:12> ADD HI; 3
+2012-11-11 02:46:12> HI successfully added.
+2012-11-11 02:46:12> ADD HI; 3
+2012-11-11 02:46:12> HI successfully added.
+2012-11-11 02:46:13> ADD HI; 3
+2012-11-11 02:46:13> HI successfully added.
+2012-11-11 02:46:13> ADD HI; 3
+2012-11-11 02:46:13> HI successfully added.
+2012-11-11 02:58:25> quit
+2012-11-11 02:58:25> Invalid command
+2012-11-11 03:13:03> del p 3
+2012-11-11 03:13:03> Task successfully removed!
+2012-11-11 03:13:03> 3
+2012-11-11 03:13:03> Invalid command
+2012-11-11 03:38:25> add asdfadsf; 2
+2012-11-11 03:38:25> asdfadsf successfully added.
+2012-11-11 03:43:07> comp p 2
+2012-11-11 03:43:07> Task completed.
+2012-11-11 03:43:24> comp p 17
+2012-11-11 03:43:24> Task completed.
+2012-11-11 03:45:55> ADD afadljsd;31 nov;now
+2012-11-11 03:45:55> Invalid date
+2012-11-11 03:52:22> add hi ; 4 nov; 5 pm
+2012-11-11 03:52:22> Time must be a integer
+2012-11-11 03:52:38> add hi; 4 nov 2012; 5 pm
+2012-11-11 03:52:38> Time must be a integer
+2012-11-11 03:52:48> add hi; 4 nov; 5
+2012-11-11 03:52:48> hi successfully added.
+2012-11-11 03:55:29> add hi ; 21 nov; 5 : 00
+2012-11-11 03:55:29> Time must be a integer
+2012-11-11 04:17:59> QUIT
+2012-11-11 04:17:59> Invalid command
+2012-11-11 05:20:59> del c 2
+2012-11-11 05:20:59> Task successfully removed!
+2012-11-11 05:21:01> del c 1
+2012-11-11 05:21:01> Task successfully removed!
+2012-11-11 05:21:04> undo
+2012-11-11 05:21:07> undo
+2012-11-11 05:21:09> undo
+2012-11-11 05:21:10> undo
+2012-11-11 05:21:12> undo
+2012-11-11 05:21:14> undo'
+2012-11-11 05:21:14> Invalid command
+2012-11-11 05:21:16> undo
+2012-11-11 05:21:17> undo
+2012-11-11 05:21:19> undo
+2012-11-11 05:27:55> add Meeting; now; now
+2012-11-11 05:27:55> Meeting successfully added.
+2012-11-11 05:28:03> del c 1
+2012-11-11 05:28:03> Task successfully removed!
+2012-11-11 05:28:11> comp p 3
+2012-11-11 05:28:11> Task completed.
+2012-11-11 05:28:15> comp c 4
+2012-11-11 05:28:15> Id must be in range
+2012-11-11 05:28:24> comp p 4
+2012-11-11 05:28:24> Task completed.
+2012-11-11 05:28:34> del p 2
+2012-11-11 05:28:34> Task successfully removed!
+2012-11-11 06:13:45> add Hello; now; now
+2012-11-11 06:13:45> Hello successfully added.
+2012-11-11 06:13:51> comp c 1
+2012-11-11 06:13:51> Task completed.
+2012-11-11 06:13:59> add hilo; now; now
+2012-11-11 06:13:59> hilo successfully added.
+2012-11-11 06:14:05> comp c 2
+2012-11-11 06:14:05> Task completed.
+2012-11-11 06:14:22> add helo; now; now
+2012-11-11 06:14:22> helo successfully added.
+2012-11-11 06:14:31> del c 2
+2012-11-11 06:14:31> Task successfully removed!
+2012-11-11 06:14:39> del c 3
+2012-11-11 06:14:39> Index out of range in calendar
+2012-11-11 06:14:49> del c 3
+2012-11-11 06:14:49> Index out of range in calendar
+2012-11-11 06:18:31> search hell
+2012-11-11 06:18:45> goto c today
+2012-11-11 06:18:51> search c 2
+2012-11-11 06:18:57> undo
+2012-11-11 06:18:57> null
+2012-11-11 06:19:09> goto c today
+2012-11-11 06:19:17> SEARCH 2
+2012-11-11 06:19:25> search he
+2012-11-11 06:35:13> add asdflaa; now; now
+2012-11-11 06:35:13> asdflaa successfully added.
+2012-11-11 06:35:17> add now; now; now
+2012-11-11 06:35:17> now successfully added.
+2012-11-11 06:35:20> add now; now; now
+2012-11-11 06:35:20> now successfully added.
+2012-11-11 06:35:23> add now; now; now
+2012-11-11 06:35:23> now successfully added.
+2012-11-11 06:35:27> add now; now; now
+2012-11-11 06:35:27> now successfully added.
+2012-11-11 06:40:31> add hi;14 nov;now
+2012-11-11 06:40:31> hi successfully added.
+2012-11-11 06:40:35> add hello;4 nov;now
+2012-11-11 06:40:35> hello successfully added.
+2012-11-11 06:40:53> goto c today
+2012-11-11 06:41:00> goto c
+2012-11-11 06:41:00> 2
+2012-11-11 06:41:03> goto c 1
+2012-11-11 06:44:03> goto c todat
+2012-11-11 06:44:03> Date must be a integer
+2012-11-11 06:44:12> goto c today
+2012-11-11 06:44:26> add hi; now; now
+2012-11-11 06:44:26> hi successfully added.
+2012-11-11 06:44:26> add hi; now; now
+2012-11-11 06:44:26> hi successfully added.
+2012-11-11 06:44:30> add hi; now; now
+2012-11-11 06:44:30> hi successfully added.
+2012-11-11 06:44:31> add hi; now; now
+2012-11-11 06:44:31> hi successfully added.
+2012-11-11 06:44:32> add hi; now; now
+2012-11-11 06:44:32> hi successfully added.
+2012-11-11 06:44:32> add hi; now; now
+2012-11-11 06:44:32> hi successfully added.
+2012-11-11 06:44:33> add hi; now; now
+2012-11-11 06:44:33> hi successfully added.
+2012-11-11 06:59:12> CLEAR 
+2012-11-11 06:59:12> All completed tasks succesfully cleared.
+2012-11-11 07:08:10> ADD MEETING; 4 NOV; 800 : 900
+2012-11-11 07:08:10> Time must be a integer
+2012-11-11 07:08:30> ADD HELLO ; NOW ; NOW : 2323
+2012-11-11 07:08:30> Time must be a integer
+2012-11-11 07:15:26> ADD HELLO; NOW; NOW : 2000
+2012-11-11 07:15:26> HELLO successfully added.
+2012-11-11 07:16:36> comp c 1
+2012-11-11 07:16:36> Index: 0, Size: 0
+2012-11-11 07:18:12> add hi; now; now
+2012-11-11 07:18:12> hi successfully added.
+2012-11-11 07:18:37> add now; now; now;
+2012-11-11 07:18:37> now successfully added.
+2012-11-11 07:25:03> goto c today
+2012-11-11 07:25:10> goto p 2
+2012-11-11 07:25:15> goto c 1
+2012-11-11 07:25:20> goto p 1
+2012-11-11 07:26:00> add hi; 3
+2012-11-11 07:26:00> hi successfully added.
+2012-11-11 07:26:06> add hi; 3
+2012-11-11 07:26:06> hi successfully added.
+2012-11-11 07:26:07> add hi; 3
+2012-11-11 07:26:07> hi successfully added.
+2012-11-11 07:26:07> add hi; 3
+2012-11-11 07:26:07> hi successfully added.
+2012-11-11 07:26:08> add hi; 3
+2012-11-11 07:26:08> hi successfully added.
+2012-11-11 07:26:08> add hi; 3
+2012-11-11 07:26:08> hi successfully added.
+2012-11-11 07:26:09> add hi; 3
+2012-11-11 07:26:09> hi successfully added.
+2012-11-11 07:26:09> add hi; 3
+2012-11-11 07:26:09> hi successfully added.
+2012-11-11 07:26:10> add hi; 3
+2012-11-11 07:26:10> hi successfully added.
+2012-11-11 07:26:10> add hi; 3
+2012-11-11 07:26:10> hi successfully added.
+2012-11-11 07:26:11> add hi; 3
+2012-11-11 07:26:11> hi successfully added.
+2012-11-11 07:26:12> add hi; 3
+2012-11-11 07:26:12> hi successfully added.
+2012-11-11 07:26:12> add hi; 3
+2012-11-11 07:26:12> hi successfully added.
+2012-11-11 07:26:13> add hi; 3
+2012-11-11 07:26:13> hi successfully added.
+2012-11-11 07:26:13> add hi; 3
+2012-11-11 07:26:13> hi successfully added.
+2012-11-11 07:26:14> add hi; 3
+2012-11-11 07:26:14> hi successfully added.
+2012-11-11 07:26:15> add hi; 3
+2012-11-11 07:26:15> hi successfully added.
+2012-11-11 07:26:15> add hi; 3
+2012-11-11 07:26:15> hi successfully added.
+2012-11-11 07:26:16> add hi; 3
+2012-11-11 07:26:16> hi successfully added.
+2012-11-11 07:26:17> add hi; 3
+2012-11-11 07:26:17> hi successfully added.
+2012-11-11 07:28:58> add hi ; 2
+2012-11-11 07:28:58> hi successfully added.
+2012-11-11 07:29:08> comp c 21
+2012-11-11 07:29:08> Id must be in range
+2012-11-11 07:29:14> comp p 21
+2012-11-11 07:29:14> Index: 20, Size: 3
+2012-11-11 07:29:19> comp p 20
+2012-11-11 07:29:19> Index: 19, Size: 3
+2012-11-11 07:30:09> add hi; 1
+2012-11-11 07:30:09> hi successfully added.
+2012-11-11 07:30:17> comp p 22
+2012-11-11 07:30:17> Index: 21, Size: 3
+2012-11-11 07:30:30> comp p 20
+2012-11-11 07:30:30> Index: 19, Size: 3
+2012-11-11 07:30:36> comp p 21
+2012-11-11 07:30:36> Index: 20, Size: 3
+2012-11-11 07:31:08> comp p 19
+2012-11-11 07:31:08> Index: 18, Size: 3
+2012-11-11 07:31:15> comp p 17
+2012-11-11 07:31:15> Index: 16, Size: 3
+2012-11-11 07:31:26> comp p 2
+2012-11-11 07:31:27> hi completed.
+2012-11-11 07:31:30> comp p 10
+2012-11-11 07:31:30> Index: 9, Size: 3
+2012-11-11 07:31:38> comp p 8
+2012-11-11 07:31:38> Index: 7, Size: 3
+2012-11-11 07:31:49> comp p 3
+2012-11-11 07:31:49> now completed.
+2012-11-11 07:32:01> comp p 2
+2012-11-11 07:32:01> hi completed.
+2012-11-11 07:32:04> comp p 3
+2012-11-11 07:32:04> now completed.
+2012-11-11 07:32:08> comp p 3
+2012-11-11 07:32:08> now completed.
+2012-11-11 07:32:12> comp p 4
+2012-11-11 07:32:12> Index: 3, Size: 3
+2012-11-11 07:32:15> comp p 5
+2012-11-11 07:32:15> Index: 4, Size: 3
+2012-11-11 07:32:18> undo
+2012-11-11 07:32:18> Index: 4, Size: 3
+2012-11-11 07:32:21> undo
+2012-11-11 07:32:21> Index: 4, Size: 3
+2012-11-11 07:32:22> undo
+2012-11-11 07:32:22> Index: 4, Size: 3
+2012-11-11 07:43:46> add hello; nov 12; 2200 : 2300
+2012-11-11 07:43:46> hello successfully added.
+2012-11-11 07:43:50> comp c 4
+2012-11-11 07:43:50> hi completed.
+2012-11-11 07:52:10> add hi; now; now
+2012-11-11 07:52:10> hi successfully added.
+2012-11-11 07:52:15> comp c 4
+2012-11-11 07:52:15> hi completed.
+2012-11-11 07:52:39> add hojoho; now; now - 2100
+2012-11-11 07:52:39> hojoho successfully added.
+2012-11-11 07:52:46> comp c 5
+2012-11-11 07:52:46> hi completed.
+2012-11-11 07:53:21> del c 4
+2012-11-11 07:53:21> hi successfully removed.
+2012-11-11 07:53:40> add hi hi hi; now; now - 1700
+2012-11-11 07:53:40> hi hi hi successfully added.
+2012-11-11 07:53:49> comp c 3
+2012-11-11 07:53:49> hi completed.
+2012-11-11 07:56:26> comp c 5
+2012-11-11 07:56:26> hi completed.
+2012-11-11 07:56:31> undo
+2012-11-11 07:56:41> comp c 5
+2012-11-11 07:56:41> hi completed.
+2012-11-11 07:58:34> add hi; now; now
+2012-11-11 07:58:34> hi successfully added.
+2012-11-11 07:59:17> del c 1
+2012-11-11 07:59:17> hi successfully removed.
+2012-11-11 07:59:24> del c 1
+2012-11-11 07:59:24> hi successfully removed.
+2012-11-11 07:59:25> del c 1
+2012-11-11 07:59:25> hi successfully removed.
+2012-11-11 07:59:25> del c 1
+2012-11-11 07:59:25> hi successfully removed.
+2012-11-11 07:59:26> del c 1
+2012-11-11 07:59:26> hi successfully removed.
+2012-11-11 07:59:27> del c 1
+2012-11-11 07:59:27> hi successfully removed.
+2012-11-11 08:19:07> add Meet David for lunch; today; 1200
+2012-11-11 08:19:07> Meet David for lunch successfully added.
+2012-11-11 08:20:22> add Security report due; nov 13; 2359
+2012-11-11 08:20:22> Security report due successfully added.
+2012-11-11 08:20:58> add Industry conference; 14 nov; 1700 - 1900
+2012-11-11 08:20:58> Industry conference successfully added.
+2012-11-11 08:21:39> add Software product submission; 20 nov; 2359
+2012-11-11 08:21:39> Software product submission successfully added.
+2012-11-11 08:22:30> add Budget meeting; 19 nov; 3 pm
+2012-11-11 08:22:30> Time must be a integer
+2012-11-11 08:23:03> add Budget meeting; 19 nov; 1500 - 1700
+2012-11-11 08:23:03> Budget meeting successfully added.
+2012-11-11 08:23:25> add Watch Pulp Fiction; 2
+2012-11-11 08:23:25> Watch Pulp Fiction successfully added.
+2012-11-11 08:24:10> add Report to Senior Manager for project briefing; 17 nov; now - 2200
+2012-11-11 08:24:10> Report to Senior Manager for project briefing successfully added.
+2012-11-11 08:24:40> add Buy groceries; 3
+2012-11-11 08:24:40> Buy groceries successfully added.
+2012-11-11 08:25:25> add Book tickets for Bangkok vacation; 3
+2012-11-11 08:25:25> Book tickets for Bangkok vacation successfully added.
+2012-11-11 08:25:34> del p 2
+2012-11-11 08:25:34> Security report due successfully removed.
+2012-11-11 08:25:50> add book tickets for vacation; 2
+2012-11-11 08:25:50> book tickets for vacation successfully added.
+2012-11-11 08:27:01> EDIT 3;book tkts for vacation;2
+2012-11-11 08:27:01> Edit successful.
+2012-11-11 08:30:47> edit 1; Budget report ; 3
+2012-11-11 08:30:47> Edit successful.
+2012-11-11 08:31:21> edit 2; Transition to Agile meeting; 2
+2012-11-11 08:31:21> Edit successful.
+2012-11-11 08:31:43> edit 2; scrum end game; 2
+2012-11-11 08:31:43> Edit successful.
+2012-11-11 09:04:00> add hi; 4
+2012-11-11 09:04:00> Prio must be high, medium or low
+2012-11-11 09:04:04> add hi; 3
+2012-11-11 09:04:04> hi successfully added.
+2012-11-11 09:04:10> delete p 2
+2012-11-11 09:04:11> Security report due successfully removed.
+2012-11-11 09:04:51> add hi ; 1
+2012-11-11 09:04:51> hi successfully added.
+2012-11-11 09:04:56> delete p 4
+2012-11-11 09:04:56> Report to Senior Manager for project briefing successfully removed.
+2012-11-11 09:05:53> add hi; 1
+2012-11-11 09:05:53> hi successfully added.
+2012-11-11 09:06:03> delete p 4
+2012-11-11 09:06:03> Report to Senior Manager for project briefing successfully removed.
+2012-11-11 09:18:22> add hilsdfjslkadjfas;ldfj; 15 nov; 8 am
+2012-11-11 09:18:22> Invalid input
+2012-11-11 10:45:25> comp c 2
+2012-11-11 10:45:25> Security report due completed.
+2012-11-11 10:45:34> comp c 4
+2012-11-11 10:45:34> Report to Senior Manager for project briefing completed.
+2012-11-11 10:45:40> undo
+2012-11-11 10:45:40> Report to Senior Manager for project briefing incompleted.
+2012-11-11 10:48:08> comp c 4
+2012-11-11 10:48:08> Report to Senior Manager for project briefing completed.
+2012-11-12 01:18:53> GOTO c 7 NOC
+2012-11-12 01:19:10> GOTO p MEDIUM
+2012-11-12 01:19:10> Prio must be high, medium or low
+2012-11-12 01:19:27> GOTO p Medium
+2012-11-12 01:19:27> Prio must be high, medium or low
+2012-11-12 01:19:36> goto p med
+2012-11-12 01:19:36> Prio must be high, medium or low
+2012-11-12 01:19:39> goto p 2
+2012-11-12 11:45:44> ads;adlkjfa;sdlkf
+2012-11-12 11:45:44> Invalid command
+2012-11-12 11:45:48> add ;lsdkjfa;sldkfj
+2012-11-12 11:45:48> Invalid date
+2012-11-12 11:45:53> add lkja;flkjasf;asdfasd
+2012-11-12 11:45:53> Invalid date
+2012-11-12 11:46:00> add lkj; kljl; lkjl
+2012-11-12 11:46:00> Invalid date
+2012-11-12 11:46:12> add raghav 6 nov; now
+2012-11-12 11:46:12> Prio must be high, medium or low
+2012-11-12 11:46:28> add mynameisbilla; now; now
+2012-11-12 11:46:28> mynameisbilla successfully added.
+2012-11-12 11:46:34> del c 2
+2012-11-12 11:46:34> mynameisbilla successfully removed.
+2012-11-12 11:46:39> delc 2
+2012-11-12 11:46:39> Invalid command
+2012-11-12 11:46:41> del c2
+2012-11-12 11:46:41> 2
+2012-11-12 11:46:49> add lkj;;
+2012-11-12 11:46:49> Invalid input
+2012-11-12 11:46:58> ad ; now; now
+2012-11-12 11:46:58>  successfully added.
+2012-11-12 11:47:04> del c 2
+2012-11-12 11:47:04>  successfully removed.
+2012-11-12 11:49:09> add hi; now; now - 500
+2012-11-12 11:49:09> hi successfully added.
+2012-11-12 11:49:28> edit 2; hilo; now; now-530
+2012-11-12 11:49:28> Edit successful.
+2012-11-12 11:49:47> add 2; hello; now; now - 700
+2012-11-12 11:49:47> Invalid input
+2012-11-12 12:11:20> del c 8
+2012-11-12 12:11:20> Index: 7, Size: 7
+2012-11-12 02:50:45> del c 2
+2012-11-12 02:50:45> hilo successfully removed.
+2012-11-12 02:51:37> del c 1
+2012-11-12 02:51:37> Meet David for lunch successfully removed.
+2012-11-12 02:51:58> add Meet David for lunch; today; 1200
+2012-11-12 02:51:58> Meet David for lunch successfully added.
+2012-11-12 03:00:32> search report
+2012-11-12 03:00:36> undo
+2012-11-12 03:00:36> Meet David for lunch successfully removed.
+2012-11-12 03:00:51> search report
+2012-11-12 03:01:03> goto c 19000101
+2012-11-12 03:01:13> search Report
+2012-11-12 03:02:10> goto c 19000101
+2012-11-12 03:02:39> add hi; p 2
+2012-11-12 03:02:39> Prio must be high, medium or low
+2012-11-12 03:02:44> add sdafsad; 2
+2012-11-12 03:02:44> sdafsad successfully added.
+2012-11-12 03:02:52> del p 4
+2012-11-12 03:02:52> sdafsad successfully removed.
+2012-11-12 03:03:11> goto c today
+2012-11-12 03:08:07> edit 3; report to senior manager for project meeting; nov 17; now - 2200
+2012-11-12 03:08:07> Edit successful.
+2012-11-12 03:10:25> EDIT 3; report to manager; 18 nov; 1500 - 1700
+2012-11-12 03:10:25> Edit successful.
+2012-11-12 03:10:50> comp c 3
+2012-11-12 03:10:50> report to manager completed.
+2012-11-12 03:11:28> del c 1
+2012-11-12 03:11:28> Security report due successfully removed.
+2012-11-12 03:11:31> delc 2
+2012-11-12 03:11:31> Invalid command
+2012-11-12 03:11:35> del c 2
+2012-11-12 03:11:35> report to manager successfully removed.
+2012-11-12 03:11:54> add security report ; today; now
+2012-11-12 03:11:54> security report successfully added.
+2012-11-12 03:12:15> add report to senior manager; today; now - 2200
+2012-11-12 03:12:15> report to senior manager successfully added.
+2012-11-12 03:14:42> add Meet David for lunch; today; 1230
+2012-11-12 03:14:42> Meet David for lunch successfully added.
+2012-11-12 03:14:54> add month end report; 3
+2012-11-12 03:14:54> month end report successfully added.
+2012-11-12 03:15:06> add team meeting; today; 1500 - 1600
+2012-11-12 03:15:06> team meeting successfully added.
+2012-11-12 03:15:55> edit 2; team meeting; today; 1600 - 1700
+2012-11-12 03:15:55> Edit successful.
+2012-11-12 03:16:05> comp c 1
+2012-11-12 03:16:05> Meet David for lunch completed.
+2012-11-12 03:16:09> clear
+2012-11-12 03:16:09> All completed tasks succesfully cleared.
+2012-11-12 03:16:25> del c 3
+2012-11-12 03:16:25> team meeting successfully removed.
+2012-11-12 03:16:30> undo
+2012-11-12 03:16:30> team meeting successfully added.
+2012-11-12 03:16:36> search report
+2012-11-12 03:16:46> goto c 19000101
+2012-11-12 03:16:57> exit
+2012-11-12 03:16:57> Invalid command
+2012-11-12 03:21:05> del c 3
+2012-11-12 03:21:05> team meeting successfully removed.
+2012-11-12 03:21:10> del p 2
+2012-11-12 03:21:10> month end report successfully removed.
+2012-11-12 03:22:16> add follow up with client; 9 nov; now
+2012-11-12 03:22:16> follow up with client successfully added.
+2012-11-12 03:22:37> add organize desk ; nov 10; 1900
+2012-11-12 03:22:37> organize desk successfully added.
+2012-11-12 03:22:43> comp c 1
+2012-11-12 03:22:43> follow up with client completed.
+2012-11-12 03:22:51> comp c 2
+2012-11-12 03:22:51> organize desk completed.
+2012-11-12 03:30:19> add Meet David for lunch; today; 1230
+2012-11-12 03:30:19> Meet David for lunch successfully added.
+2012-11-12 03:30:31> add month end report;3
+2012-11-12 03:30:31> month end report successfully added.
+2012-11-12 03:30:44> add team meeting; today; 1500 - 1600
+2012-11-12 03:30:44> team meeting successfully added.
+2012-11-12 03:31:07> edit 4; team meeting; today; 1600 - 1700
+2012-11-12 03:31:07> Edit successful.
+2012-11-12 03:31:23> comp c 3
+2012-11-12 03:31:23> Meet David for lunch completed.
+2012-11-12 03:31:25> clear
+2012-11-12 03:31:25> All completed tasks succesfully cleared.
+2012-11-12 03:31:36> del c 3
+2012-11-12 03:31:36> team meeting successfully removed.
+2012-11-12 03:31:44> undo
+2012-11-12 03:31:44> team meeting successfully added.
+2012-11-12 03:32:06> search report
+2012-11-12 03:32:18> goto c today
+2012-11-12 03:47:47> add sadfadsf; today; 1200
+2012-11-12 03:47:47> sadfadsf successfully added.
+2012-11-12 03:48:43> del c 1
+2012-11-12 03:48:43> sadfadsf successfully removed.
+2012-11-12 03:48:56> del p 2
+2012-11-12 03:48:56> month end report successfully removed.
+2012-11-12 03:49:04> exit
+2012-11-12 03:49:04> Invalid command
+2012-11-12 04:49:58> add hello; now; now
+2012-11-12 04:49:58> hello successfully added.
+2012-11-12 04:50:01> search hello
+2012-11-12 04:51:01> add hello; 2
+2012-11-12 04:51:01> hello successfully added.
+2012-11-12 04:51:12> search hello
+2012-11-12 04:53:37> ADD HI; TODAY; 1200
+2012-11-12 04:53:37> HI successfully added.
+2012-11-12 05:01:26> add meeting; today; 3 pm - 4 pm
+2012-11-12 05:01:26> Invalid time
+2012-11-12 05:01:41> search hello
+2012-11-12 05:02:31> goto c today
+2012-11-12 05:02:36> goto p 3
+2012-11-12 05:02:56> del c 4
+2012-11-12 05:02:56> hello successfully removed.
+2012-11-12 05:03:22> add hello; now; 4 pm - 5 pm
+2012-11-12 05:03:22> Invalid time
+2012-11-12 05:03:55> add hello; now; 4 pm-5 pm
+2012-11-12 05:03:55> Invalid time
+2012-11-12 05:05:35> add hell; now; 4 am - 5 am
+2012-11-12 05:05:35> hell successfully added.
+2012-11-12 05:06:13> add hell; now; 430 am - 530 am
+2012-11-12 05:06:13> Invalid start time
+2012-11-12 05:08:42> search hell
+2012-11-12 05:08:42> String index out of range: 4
+2012-11-12 05:11:45> search hell
+2012-11-12 05:11:45> String index out of range: 4
+2012-11-12 05:12:17> search hell
+2012-11-12 05:12:17> String index out of range: 4
+2012-11-12 05:12:51> search hell
+2012-11-12 05:12:51> String index out of range: 4
+2012-11-12 05:20:33> search hell
+2012-11-12 05:20:54> goto c today
+2012-11-12 05:21:01> goto p 3
+2012-11-12 05:21:08> search hell 
+2012-11-12 05:27:22> search report
+2012-11-12 05:27:28> search hell
+2012-11-12 05:31:45> search hell
+2012-11-12 05:31:45> String index out of range: 4
+2012-11-12 05:58:18> goto c today
+2012-11-12 06:45:40> de c 1
+2012-11-12 06:45:40> hell successfully removed.
+2012-11-12 06:45:42> del c 1
+2012-11-12 06:45:42> HI successfully removed.
+2012-11-12 06:45:47> del p 4
+2012-11-12 06:45:47> hello successfully removed.
+2012-11-12 06:46:52> del c 3
+2012-11-12 06:46:52> team meeting successfully removed.
+2012-11-12 06:49:46> add meet david for lunch; today ; 1230
+2012-11-12 06:49:46> meet david for lunch successfully added.
+2012-11-12 06:49:58> add month end report; 3
+2012-11-12 06:49:58> month end report successfully added.
+2012-11-12 06:50:14> add team meeting; today; 3 pm - 4 pm
+2012-11-12 06:50:14> team meeting successfully added.
+2012-11-12 06:50:37> edit 2; team meeting; today; 4 pm - 5 pm
+2012-11-12 06:50:37> Edit successful.
+2012-11-12 06:50:54> complete c 1
+2012-11-12 06:50:54> meet david for lunch completed.
+2012-11-12 06:50:56> clear
+2012-11-12 06:50:56> All completed tasks succesfully cleared.
+2012-11-12 06:51:07> del c 3
+2012-11-12 06:51:07> team meeting successfully removed.
+2012-11-12 06:51:16> undo
+2012-11-12 06:51:16> team meeting successfully added.
+2012-11-12 06:51:26> search report
+2012-11-12 06:51:40> goto c today
+2012-11-12 06:51:48> exit 
+2012-11-12 06:51:48> Invalid command
+2012-11-12 06:51:51> quit
+2012-11-12 06:51:51> Invalid command
+2012-11-12 06:54:47> search 3 + month
+2012-11-12 06:58:01> goto c today
+2012-11-12 06:58:07> add hello; now; now
+2012-11-12 06:58:07> hello successfully added.
+2012-11-12 06:58:11> add hello ; 3
+2012-11-12 06:58:11> hello successfully added.
+2012-11-12 06:58:14> search hell
+2012-11-12 07:02:10> goto c 19000101
+2012-11-12 07:02:47> add test; 9 nov; now
+2012-11-12 07:02:47> test successfully added.
+2012-11-12 07:02:57> goto c 19000101
+2012-11-12 07:04:41> edit 2; Security report ; 12 nov; 3 pm
+2012-11-12 07:04:41> Edit successful.
+2012-11-12 07:05:33> edit 2; security report; now; 1500
+2012-11-12 07:05:33> Edit successful.
+2012-11-12 07:06:29> del c 5
+2012-11-12 07:06:29> hello successfully removed.
+2012-11-12 07:06:33> del p 3
+2012-11-12 07:06:33> hello successfully removed.
+2012-11-12 07:06:38> del c 4
+2012-11-12 07:06:38> team meeting successfully removed.
+2012-11-12 07:06:51> del p 2
+2012-11-12 07:06:51> month end report successfully removed.
+2012-11-12 07:08:49> edit 5; budget meeting; 19 nov; 2 pm to 3 pm
+2012-11-12 07:08:49> Edit successful.
+2012-11-12 07:13:57> add software product ; 2
+2012-11-12 07:13:57> software product successfully added.
+2012-11-12 07:14:21> del c 6
+2012-11-12 07:14:21> Software product submission successfully removed.
+2012-11-12 07:15:25> edit 4; software component; 2
+2012-11-12 07:15:25> Edit successful.
+2012-11-12 07:24:08> add Meet David for lunch ; today; 1230
+2012-11-12 07:24:08> Meet David for lunch successfully added.
+2012-11-12 07:25:07> del c 2
+2012-11-12 07:25:07> Meet David for lunch successfully removed.
+2012-11-12 07:25:54> add Meet David for lunch; today; 1230
+2012-11-12 07:25:54> Meet David for lunch successfully added.
+2012-11-12 07:26:07> add month end report; 3
+2012-11-12 07:26:07> month end report successfully added.
+2012-11-12 07:26:25> add team meeting; today; 3 pm - 4 pm
+2012-11-12 07:26:25> team meeting successfully added.
+2012-11-12 07:26:48> edit 3; security report 13 nov; 2359
+2012-11-12 07:26:48> Prio must be high, medium or low. Alt 3, 2 or 1.
+2012-11-12 07:27:58> dele c 4
+2012-11-12 07:27:58> team meeting successfully removed.
+2012-11-12 07:28:01> del p 2
+2012-11-12 07:28:01> month end report successfully removed.
+2012-11-12 07:28:05> del c 2
+2012-11-12 07:28:05> Meet David for lunch successfully removed.
+2012-11-12 07:28:12> del c 2
+2012-11-12 07:28:12> security report successfully removed.
+2012-11-12 07:28:28> add security report; today; 9 pm
+2012-11-12 07:28:28> security report successfully added.
+2012-11-12 07:28:32> quit
+2012-11-12 07:28:32> Invalid command
+2012-11-12 07:31:13> add Meet David for lunch; today; 1230
+2012-11-12 07:31:13> Meet David for lunch successfully added.
+2012-11-12 07:31:24> add month end report; 3
+2012-11-12 07:31:24> month end report successfully added.
+2012-11-12 07:31:39> add team meeting; today; 3 pm - 4 pm
+2012-11-12 07:31:39> team meeting successfully added.
+2012-11-12 07:31:59> edit 5; security report; 13 nov; 9 pm
+2012-11-12 07:32:00> Edit successful.
+2012-11-12 07:32:13> comp c 2
+2012-11-12 07:32:13> Meet David for lunch completed.
+2012-11-12 07:32:18> clear
+2012-11-12 07:32:18> All completed tasks succesfully cleared.
+2012-11-12 07:32:31> delete c 2
+2012-11-12 07:32:31> team meeting successfully removed.
+2012-11-12 07:32:40> undo
+2012-11-12 07:32:40> team meeting successfully added.
+2012-11-12 07:32:51> search report
+2012-11-12 07:33:00> goto c today
+2012-11-12 07:33:10> comp p 1
+2012-11-12 07:33:10> Budget report completed.
+2012-11-12 07:33:14> clear
+2012-11-12 07:33:14> All completed tasks succesfully cleared.
+2012-11-12 07:33:32> edit 2; scrum end game; 3
+2012-11-12 07:33:32> Edit successful.
+2012-11-12 07:33:40> comp p 4
+2012-11-12 07:33:40> software component completed.
+2012-11-12 07:33:51> undo
+2012-11-12 07:33:51> software component incompleted.
+2012-11-12 07:33:58> quit
+2012-11-12 07:33:58> Invalid command
+2012-11-12 07:36:23> del c 2
+2012-11-12 07:36:23> team meeting successfully removed.
+2012-11-12 07:36:37> edit 2;scrum end game;2
+2012-11-12 07:36:37> Edit successful.
+2012-11-12 07:36:43> del p 1
+2012-11-12 07:36:43> month end report successfully removed.
+2012-11-12 07:37:03> edit 3; security report; today; 2100
+2012-11-12 07:37:03> Edit successful.
+2012-11-12 07:37:08> del c 1
+2012-11-12 07:37:08> test successfully removed.
+2012-11-12 07:37:51> add Meet David for lunch; today; 1230
+2012-11-12 07:37:51> Meet David for lunch successfully added.
+2012-11-12 07:38:42> del c 1
+2012-11-12 07:38:42> Meet David for lunch successfully removed.
+2012-11-12 07:39:33> add Meet David for lunch; today; 1230
+2012-11-12 07:39:33> Meet David for lunch successfully added.
+2012-11-12 07:39:44> add month end report; 3
+2012-11-12 07:39:44> month end report successfully added.
+2012-11-12 07:39:59> add team meeting; today; 3 pm - 4 pm
+2012-11-12 07:39:59> team meeting successfully added.
+2012-11-12 07:44:12> del c 2
+2012-11-12 07:44:12> team meeting successfully removed.
+2012-11-12 07:44:14> del c 1
+2012-11-12 07:44:14> Meet David for lunch successfully removed.
+2012-11-12 07:44:17> del p 1
+2012-11-12 07:44:17> month end report successfully removed.
+2012-11-12 07:45:02> add Meet David for lunch; today; 1230
+2012-11-12 07:45:02> Meet David for lunch successfully added.
+2012-11-12 07:45:14> add Month end report; 3
+2012-11-12 07:45:14> Month end report successfully added.
+2012-11-12 07:45:32> add team meeting; today; 3 pm - 4 pm
+2012-11-12 07:45:33> team meeting successfully added.
+2012-11-12 07:45:56> edit 4; security report; 13 nov; 9 pm
+2012-11-12 07:45:56> Edit successful.
+2012-11-12 07:47:03> comp c 1
+2012-11-12 07:47:03> Meet David for lunch completed.
+2012-11-12 07:47:07> clear
+2012-11-12 07:47:07> All completed tasks succesfully cleared.
+2012-11-12 07:47:22> delete c 1
+2012-11-12 07:47:22> team meeting successfully removed.
+2012-11-12 07:47:32> undo
+2012-11-12 07:47:32> team meeting successfully added.
+2012-11-12 07:47:45> search report
+2012-11-12 07:47:54> goto c today
+2012-11-12 07:48:04> comp p 1
+2012-11-12 07:48:04> Month end report completed.
+2012-11-12 07:48:12> clear
+2012-11-12 07:48:12> All completed tasks succesfully cleared.
+2012-11-12 07:48:32> edit 1; scrum end game; 3
+2012-11-12 07:48:32> Edit successful.
+2012-11-12 07:48:40> comp p 3
+2012-11-12 07:48:40> software component completed.
+2012-11-12 07:48:48> undo
+2012-11-12 07:48:48> software component incompleted.
+2012-11-12 07:48:55> quit
+2012-11-12 07:48:55> Invalid command
+2012-11-12 09:39:38> edit 3; security report; today; 9 pm - 10 pm
+2012-11-12 09:39:38> Edit successful.
+2012-11-12 09:39:55> edit 3; security report; today; 8 pm
+2012-11-12 09:39:55> Edit successful.
+2012-11-12 10:00:08> search rep * 8 
+2012-11-12 10:00:14> undo
+2012-11-12 10:00:14> null
+2012-11-12 10:00:19> goto c today
+2012-11-12 10:00:21> goto p 3
+2012-11-12 10:38:28> add date with gf; today; 9 pm
+2012-11-12 10:38:28> date with gf successfully added.
+2012-11-12 10:39:22> quit
+2012-11-12 10:39:22> Invalid command
+<2012-11-15 03:35:27> add task; 12 13 2012; now
+<2012-11-15 03:35:27> task successfully added.
+<2012-11-15 03:35:27> goto c 19000101
+<2012-11-15 03:35:27> add task; 12 13 2012; now
+<2012-11-15 03:35:27> task successfully added.
+<2012-11-15 03:35:27> add taskasdfadsf; 13 12 2012; now
+<2012-11-15 03:35:27> taskasdfadsf successfully added.
+<2012-11-15 03:37:40> goto c 19000101
+<2012-11-15 03:37:40> del c 3
+<2012-11-15 03:37:40> taskasdfadsf successfully removed.
+<2012-11-15 03:37:40> del c 4
+<2012-11-15 03:37:40> date with gf successfully removed.
+<2012-11-15 03:37:40> del c 4
+<2012-11-15 03:37:40> task successfully removed.
+<2012-11-15 03:37:40> del c 4
+<2012-11-15 03:37:40> task successfully removed.
+<2012-11-15 03:37:40> add task; 13 dec; now
+<2012-11-15 03:37:40> task successfully added.
+<2012-11-15 03:37:40> add task; dec 13 ; now
+<2012-11-15 03:37:40> task successfully added.
+<2012-11-15 03:37:40> del c 6
+<2012-11-15 03:37:40> task successfully removed.
+<2012-11-15 03:37:40> del c 6
+<2012-11-15 03:37:40> task successfully removed.
+<2012-11-15 03:37:40> add task; 13 11 2012; now
+<2012-11-15 03:37:40> task successfully added.
+<2012-11-15 03:37:40> add task; 12 12; now
+<2012-11-15 03:37:40> task successfully added.
+<2012-11-15 03:37:40> add task; 12 11; now
+<2012-11-15 03:37:40> task successfully added.
+<2012-11-15 03:37:40> add task 11 12 ; now
+<2012-11-15 03:37:40> Prio must be high, medium or low. Alt 3, 2 or 1.
+<2012-11-15 03:37:40> add hi; high
+<2012-11-15 03:37:40> hi successfully added.
+<2012-11-15 03:37:40> add hellp; High
+<2012-11-15 03:37:40> hellp successfully added.
+<2012-11-15 03:37:40> add hi; hi
+<2012-11-15 03:37:40> hi successfully added.
+<2012-11-15 03:37:40> del c 4
+<2012-11-15 03:37:40> report to senior manager successfully removed.
+<2012-11-15 03:37:40> del c 4
+<2012-11-15 03:37:40> task successfully removed.
+<2012-11-15 03:37:40> del c 1
+<2012-11-15 03:37:40> task successfully removed.
+<2012-11-15 03:37:40> del c 1
+<2012-11-15 03:37:40> task successfully removed.
+<2012-11-15 03:37:40> del p 1
+<2012-11-15 03:37:40> scrum end game successfully removed.
+<2012-11-15 03:37:40> del p 1
+<2012-11-15 03:37:40> hi successfully removed.
+<2012-11-15 03:37:40> del p 1
+<2012-11-15 03:37:40> hellp successfully removed.
+<2012-11-15 03:37:40> del p 1
+<2012-11-15 03:37:40> hi successfully removed.
+<2012-11-15 03:42:24> goto c all
+<2012-11-15 03:42:24> Invalid date
+<2012-11-15 03:42:24> goto c back
+<2012-11-15 03:42:24> Invalid date
+<2012-11-15 03:42:24> goto c 1
+<2012-11-15 03:42:24> goto c 2
+<2012-11-15 03:42:24> goto c 3
+<2012-11-15 03:42:24> goto c 4
+<2012-11-15 03:42:24> goto c 1
+<2012-11-15 03:42:24> goto c today
+<2012-11-15 03:42:24> goto c 1
+<2012-11-15 03:42:24> goto p low
+<2012-11-15 03:42:24> goto p hi
+<2012-11-15 03:42:24> goto p 1
+<2012-11-15 03:42:24> goto p 2
+<2012-11-15 03:42:24> goto p all
+<2012-11-15 03:42:24> Prio must be high, medium or low. Alt 3, 2 or 1.
+<2012-11-15 03:42:24> goto p 3
+<2012-11-15 03:42:24> goto p 3
+<2012-11-15 03:42:24> goto p 3
+<2012-11-15 03:42:24> goto p 1
+<2012-11-15 03:42:24> del p 3
+<2012-11-15 03:42:24> Id out of range in ToDo-list
+<2012-11-15 03:42:24> del p 1
+<2012-11-15 03:42:24> book tkts for vacation successfully removed.
+<2012-11-15 03:42:24> del p 1
+<2012-11-15 03:42:24> software component successfully removed.
+<2012-11-15 03:42:24> add hi; hi
+<2012-11-15 03:42:24> hi successfully added.
+<2012-11-15 03:42:24> add hilo; med
+<2012-11-15 03:42:24> hilo successfully added.
+<2012-11-15 03:42:24> comp c 2
+<2012-11-15 03:42:24> security report completed.
+<2012-11-15 03:42:24> comp p 2
+<2012-11-15 03:42:24> hilo completed.
+<2012-11-15 03:42:24> goto p 2
+<2012-11-15 03:42:24> goto p 3
+<2012-11-15 03:42:24> goto p 1
+<2012-11-15 03:42:24> goto p 1
+<2012-11-15 03:42:24> goto p 2
+<2012-11-15 03:42:24> goto p 1
+<2012-11-15 03:42:24> goto p 1
+<2012-11-15 04:28:15> goto c 1
+<2012-11-15 04:50:32> goto c 1
+<2012-11-15 04:50:32> goto p 1
+<2012-11-15 04:50:32> goto p low
+<2012-11-15 04:50:32> goto p 1
+<2012-11-16 04:49:06> del p 1
+<2012-11-16 04:49:06> hi successfully removed.
+<2012-11-16 04:49:06> del p 1
+<2012-11-16 04:49:06> hilo successfully removed.
+<2012-11-16 04:53:32> goto c 1
+<2012-11-16 04:53:32> goto p 1
+<2012-11-17 02:31:52> clear
+<2012-11-17 02:31:52> All completed tasks succesfully cleared.
+<2012-11-17 02:31:52> goto c 1
+<2012-11-17 02:31:52> goto p 1
+<2012-11-17 02:31:52> add buy groceries; 2
+<2012-11-17 02:31:52> buy groceries successfully added.
+<2012-11-17 02:31:52> add update resume; high
+<2012-11-17 02:31:52> update resume successfully added.
+<2012-11-17 02:31:52> goto p 3
+<2012-11-17 02:31:52> edit 4; hi; now; now
+<2012-11-17 02:31:52> Id out of range in calendar
+<2012-11-17 02:31:52> comp c 3
+<2012-11-17 02:31:52> budget meeting completed.
+<2012-11-17 02:31:52> comp p 2
+<2012-11-17 02:31:52> buy groceries completed.
+<2012-11-17 02:31:52> clear
+<2012-11-17 02:31:52> All completed tasks succesfully cleared.
+<2012-11-17 02:31:52> clear
+<2012-11-17 02:31:52> All completed tasks succesfully cleared.
+<2012-11-17 02:31:52> clear
+<2012-11-17 02:31:52> All completed tasks succesfully cleared.
+<2012-11-17 02:43:10> goto c 1
+<2012-11-17 02:43:10> add meeting; now; 3 pm
+<2012-11-17 02:43:10> meeting successfully added.
+<2012-11-17 02:43:10> SEARch meet
+<2012-11-17 02:43:10> add stuff; now; now
+<2012-11-17 02:43:10> stuff successfully added.
+<2012-11-17 02:43:10> added 
+<2012-11-17 02:43:10> Invalid command
+<2012-11-17 02:47:32> add do stuff ; medium
+<2012-11-17 02:47:32> do stuff successfully added.
+<2012-11-17 02:47:32> add do other stuff ; low
+<2012-11-17 02:47:32> do other stuff successfully added.
+<2012-11-17 02:47:32> search 2 + other
+<2012-11-17 02:47:32> edit 2;stoffff;high
+<2012-11-17 02:47:32> Edit successful.
+<2012-11-17 02:47:32> search 2 + other
+<2012-11-17 02:47:32> search 2 * other
+<2012-11-17 02:47:32> goto c 1
+<2012-11-17 02:47:32> goto p 1
+<2012-11-17 02:47:32> search ehllo * 2 + hej * yello 
+<2012-11-17 02:47:32> search 2
+<2012-11-17 02:47:32> search 14
+<2012-11-17 02:47:32> earch 45
+<2012-11-17 02:47:32>  btyh6545 h  
+<2012-11-17 02:47:32> Invalid input
+<2012-11-17 02:47:32> <html> </html>
+<2012-11-17 02:47:32> Invalid command
+<2012-11-17 03:36:39> delete c 1
+<2012-11-17 03:36:39> team meeting successfully removed.
+<2012-11-17 03:36:39> delete c 2
+<2012-11-17 03:36:39> stuff successfully removed.
+<2012-11-17 03:36:39> del c 2
+<2012-11-17 03:36:39> meeting successfully removed.
+<2012-11-17 03:36:39> del c 1
+<2012-11-17 03:36:39> Industry conference successfully removed.
+<2012-11-17 03:36:39> del p 1
+<2012-11-17 03:36:39> update resume successfully removed.
+<2012-11-17 03:36:39> del p 2
+<2012-11-17 03:36:39> do other stuff successfully removed.
+<2012-11-17 03:36:39> del p 1
+<2012-11-17 03:36:39> stoffff successfully removed.
+<2012-11-17 03:36:39> add meeting with boss;today;2 pm
+<2012-11-17 03:36:39> meeting with boss successfully added.
+<2012-11-17 03:36:39> add buy milk ; today; 5 pm
+<2012-11-17 03:36:39> buy milk successfully added.
+<2012-11-17 03:36:39> add read book the great thing ; low
+<2012-11-17 03:36:39> read book the great thing successfully added.
+<2012-11-17 03:36:39> add buy a scooter ; 3 dec 2015;  
+<2012-11-17 03:36:39> buy a scooter successfully added.
+<2012-11-17 03:36:39> edit 1;meeting with boss;today;4 pm
+<2012-11-17 03:36:39> Edit successful.
+<2012-11-17 03:36:39> add buy more milk; 25 nov ; 3 pm
+<2012-11-17 03:36:39> buy more milk successfully added.
+<2012-11-17 03:36:39> add meeting with a client ; today; 2 pm - 3 pm
+<2012-11-17 03:36:39> meeting with a client successfully added.
+<2012-11-17 03:36:39> delete c 5
+<2012-11-17 03:36:39> buy a scooter successfully removed.
+<2012-11-17 03:36:39> Ad go abroad ; high
+<2012-11-17 03:36:39> go abroad successfully added.
+<2012-11-17 03:36:39> com c 1
+<2012-11-17 03:36:39> meeting with a client completed.
+<2012-11-17 03:36:39> com p 2
+<2012-11-17 03:36:39> read book the great thing completed.
+<2012-11-17 03:36:39> clear
+<2012-11-17 03:36:39> All completed tasks succesfully cleared.
+<2012-11-17 03:36:39> undo
+<2012-11-17 03:36:39> Id must be in range
+<2012-11-17 03:36:39> add hej ; 3
+<2012-11-17 03:36:39> hej successfully added.
+<2012-11-17 03:36:39> undo
+<2012-11-17 03:36:39> hej successfully removed.
+<2012-11-17 03:36:39> search meeting * 1
+<2012-11-17 03:36:39> add read a book ; high
+<2012-11-17 03:36:39> read a book successfully added.
+<2012-11-17 03:36:39> search go + read
+<2012-11-17 03:36:39> add watch movie ; medium
+<2012-11-17 03:36:39> watch movie successfully added.
+<2012-11-17 03:36:39> search read * high + watch
+<2012-11-17 03:36:39> add hello ; today ; 4 pm
+<2012-11-17 03:36:39> hello successfully added.
+<2012-11-17 03:36:39> add hello 3 ; today ; 4 pm - 5 pm
+<2012-11-17 03:36:39> hello 3 successfully added.
+<2012-11-17 03:36:39> add hello 2 ; today ; 4pm
+<2012-11-17 03:36:39> hello 2 successfully added.
+<2012-11-17 03:36:39> undo
+<2012-11-17 03:36:39> hello 2 successfully removed.
+<2012-11-17 03:36:39> DELETE p 1
+<2012-11-17 03:36:39> go abroad successfully removed.
+<2012-11-17 03:36:39> del p 1
+<2012-11-17 03:36:39> read a book successfully removed.
+<2012-11-17 03:36:39> delet p 1
+<2012-11-17 03:36:39> watch movie successfully removed.
+<2012-11-17 03:36:39> add hello ; 3
+<2012-11-17 03:36:39> hello successfully added.
+<2012-11-17 04:16:05> del p 1
+<2012-11-17 04:16:05> hello successfully removed.
+<2012-11-17 04:16:05> del c 1
+<2012-11-17 04:16:05> meeting with boss successfully removed.
+<2012-11-17 04:16:05> del c 2
+<2012-11-17 04:16:05> hello 3 successfully removed.
+<2013-04-16 04:06:32> add read a book; high
+<2013-04-16 04:06:32> read a book successfully added.
+<2013-04-16 04:06:32> add meeting ; 4 - 5 pm; today
+<2013-04-16 04:06:32> Invalid time
+<2013-04-16 04:06:32> add meeting; 15 nov ; 4 - 5pm ; today
+<2013-04-16 04:06:32> Invalid input
+<2013-04-16 04:06:32> add meeting; 17 nov; 4 pm 
+<2013-04-16 04:06:32> meeting successfully added.
+<2013-04-16 04:06:32> del p 1
+<2013-04-16 04:06:32> read a book successfully removed.
+<2013-04-16 04:06:32> add read a book ; high
+<2013-04-16 04:06:32> read a book successfully added.
+<2013-04-16 04:06:32> del p 1
+<2013-04-16 04:06:32> read a book successfully removed.
+<2013-04-16 04:06:32> clear 
+<2013-04-16 04:06:32> All completed tasks succesfully cleared.
+<2013-04-16 04:06:32> ADD <desc>; <date>; <end time>
+<2013-04-16 04:06:32> Invalid date
+<2013-04-16 04:06:32> add interview with zopim; 6 nov; 6 pm 
+<2013-04-16 04:06:32> interview with zopim successfully added.
+<2013-04-16 04:06:32> edit 4; interview ; 16 apr 2013; 4 pm
+<2013-04-16 04:06:32> Edit successful.
+<2013-04-16 04:06:32> del c 4
+<2013-04-16 04:06:32> interview successfully removed.
+<2013-04-17 04:43:08> add interview with burpple; 17 apr 2013; 4 pm
+<2013-04-17 04:43:08> interview with burpple successfully added.
+<2013-04-17 04:43:08> add read book; high
+<2013-04-17 04:43:08> read book successfully added.
+<2013-04-17 04:43:08> ADD meeting; 7 nov; 4 - 5 
+<2013-04-17 04:43:08> meeting successfully added.
